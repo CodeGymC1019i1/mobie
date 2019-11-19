@@ -1,0 +1,31 @@
+.mobile {
+    width: 400px;
+    border: 1px solid gray;
+    /* position: relative; */
+    display: inherit;
+    float: left;
+    margin-right: 20px;
+}
+
+textarea {
+    display: block;
+    width: 90%;
+    padding: 10px 0px;
+    margin: 10px 10px;
+}
+
+div.name {
+    text-align: center;
+}
+
+
+
+input {
+    width: 300px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 55px;
+}
